@@ -6,11 +6,7 @@
 <!-- Анимированный текст (typing SVG) -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00ADD8&center=true&vCenter=true&width=600&lines=Backend+Engineer+%E2%80%A2+Web+Designer;Go+%2B+Python+%2B+C%23+enthusiast;Code+is+like+humor...;When+you+have+to+explain+it%2C+it's+bad.)](https://git.io/typing-svg)
 
-<!-- Метрики/Бейджи -->
-![](https://img.shields.io/badge/STARS-0-1f425f?style=for-the-badge)
-![](https://img.shields.io/badge/REPOSITORIES-0-1f425f?style=for-the-badge)
-![](https://img.shields.io/badge/FOLLOWERS-0-1f425f?style=for-the-badge)
-![](https://img.shields.io/badge/FOCUS-GO%20BACKEND-007acc?style=for-the-badge)
+
 
 
 </div>
