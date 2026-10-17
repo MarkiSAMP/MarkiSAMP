@@ -12,7 +12,6 @@
 ![](https://img.shields.io/badge/FOLLOWERS-0-1f425f?style=for-the-badge)
 ![](https://img.shields.io/badge/FOCUS-GO%20BACKEND-007acc?style=for-the-badge)
 
-<img src="https://komarev.com/ghpvc/?username=swet25on&style=for-the-badge&color=1f425f&label=PROFILE+VIEWS" alt="profile views"/>
 
 </div>
 
