@@ -56,9 +56,3 @@
 ### 📫 Контакты
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/swet25on)
-
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007acc,100:1f425f&height=100&section=footer"/>
-</div>
