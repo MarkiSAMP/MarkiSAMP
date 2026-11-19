@@ -1,4 +1,5 @@
 <div align="center">
+![Битва на Трезубце](https://i.pinimg.com/1200x/b9/99/d5/b999d54c89ccc0d8ae60b3dca89d1a49.jpg)
 
 <!-- Анимированный баннер (capsule-render) -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f425f,100:007acc&height=220&section=header&text=Stille&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineer%20%7C%20Web%20Designer&descAlignY=55&descAlign=50" width="100%"/>
