@@ -2,14 +2,6 @@
   
 ![Битва на Трезубце](https://i.pinimg.com/1200x/b9/99/d5/b999d54c89ccc0d8ae60b3dca89d1a49.jpg)
 
-<!-- Анимированный баннер (capsule-render) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f425f,100:007acc&height=220&section=header&text=Stille&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineer%20%7C%20Web%20Designer&descAlignY=55&descAlign=50" width="100%"/>
-
-<!-- Анимированный текст (typing SVG) -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00ADD8&center=true&vCenter=true&width=600&lines=Backend+Engineer+%E2%80%A2+Web+Designer;Go+%2B+Python+%2B+C%23+enthusiast;Code+is+like+humor...;When+you+have+to+explain+it%2C+it's+bad.)](https://git.io/typing-svg)
-
-
-
 
 </div>
 
